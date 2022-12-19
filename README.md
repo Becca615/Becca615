@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Damilola Rebecca
+- 👋 Hi, I’m Akinrinmade Oluwadamilola
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning software engineering from Alx program.
+- 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
